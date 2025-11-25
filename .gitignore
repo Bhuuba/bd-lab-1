@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+.vs/
+.DS_Store
+
+# ReSharper
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider
+.rider/
+*.swp
+*.swo
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Local environment files
+appsettings.Development.json
+appsettings.Local.json
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Database files
+*.mdf
+*.ldf
+*.bak
